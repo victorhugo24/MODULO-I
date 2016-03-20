@@ -1,0 +1,20 @@
+git config --global user.name " ..."
+git config --global user.email" ... @..."
+git init
+git status
+git add.
+git commit -m " descripcion de la cosa que se esta haciendo"
+git log = para ver los cambios que se hacen 
+git remote add origin 
+git push origin master... usuario y contraseña
+git pull 
+git checkout - b 2-V2 (nombre de la rama)
+cls
+git clone y se copia el URL    es para clonar 
+
+
+=================================================
+clonar y actualizar datos subidos al repositorio
+=================================================
+Primero clonar el master de donde queremos jalar la imformacion
+Segundo git pull la rama donde se actualizo la ultima version
